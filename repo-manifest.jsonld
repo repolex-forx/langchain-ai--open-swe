@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/langchain-ai/open-swe/commit/54be3670c03617b5731d9821d0b944d3edbf24a5",
       "git:hexsha": "54be3670c03617b5731d9821d0b944d3edbf24a5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "desktop-ui-54be3670c03617b5731d9821d0b944d3edbf24a5"
     },
     {
