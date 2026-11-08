@@ -1,0 +1,11 @@
+{
+  "org": "langchain-ai",
+  "repo": "open-swe",
+  "versions": [
+    {
+      "commit": "54be3670c03617b5731d9821d0b944d3edbf24a5",
+      "tag": "desktop-ui-54be3670c03617b5731d9821d0b944d3edbf24a5",
+      "parsed_at": "2026-11-08T01:16:43.524068+00:00"
+    }
+  ]
+}
